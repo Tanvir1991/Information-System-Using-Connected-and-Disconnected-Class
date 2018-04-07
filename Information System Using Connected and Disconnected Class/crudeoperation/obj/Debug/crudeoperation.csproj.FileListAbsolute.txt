@@ -1,0 +1,65 @@
+C:\Users\Admin\Desktop\ASP.Net\infotable with crude\crudeoperation\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Admin\Desktop\ASP.Net\infotable with crude\crudeoperation\crudeoperation\bin\crudeoperation.dll
+C:\Users\Admin\Desktop\ASP.Net\infotable with crude\crudeoperation\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Admin\Desktop\ASP.Net\infotable with crude\crudeoperation\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Admin\Desktop\ASP.Net\infotable with crude\crudeoperation\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Admin\Desktop\project6\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Admin\Desktop\project6\crudeoperation\bin\crudeoperation.dll
+C:\Users\Admin\Desktop\project6\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Admin\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Admin\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\bin\crudeoperation.dll
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Admin\Desktop\project6\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\bin\crudeoperation.dll
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+E:\projeyct6\project6\crudeoperation\bin\crudeoperation.dll.config
+E:\projeyct6\project6\crudeoperation\bin\crudeoperation.dll
+E:\projeyct6\project6\crudeoperation\bin\crudeoperation.pdb
+E:\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+E:\projeyct6\project6\crudeoperation\obj\Debug\RdlCompile.cache
+E:\projeyct6\project6\crudeoperation\obj\Debug\RdlCompile.compiled
+E:\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.dll
+E:\projeyct6\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\bin\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\obj\Debug\RdlCompile.cache
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\obj\Debug\RdlCompile.compiled
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\Tanvir Ahmmed(1230052)\Tanvir Project-6\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\bin\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\obj\Debug\RdlCompile.cache
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\obj\Debug\RdlCompile.compiled
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\project6\crudeoperation\obj\Debug\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\bin\crudeoperation.dll.config
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\bin\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\bin\crudeoperation.pdb
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\obj\Debug\RdlCompile.cache
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\obj\Debug\RdlCompile.compiled
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.dll
+C:\Users\Lab3_6\Desktop\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.pdb
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\bin\crudeoperation.dll.config
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\bin\crudeoperation.dll
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\bin\crudeoperation.pdb
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.csprojResolveAssemblyReference.cache
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\obj\Debug\RdlCompile.cache
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\obj\Debug\RdlCompile.compiled
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.dll
+F:\6th Exam Writting\xmlEvd\Tanvir(1230052)\crudeoperation\obj\Debug\crudeoperation.pdb
